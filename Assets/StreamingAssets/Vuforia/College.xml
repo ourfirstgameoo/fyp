@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CC" size="1.000000 1.263158" />
+    <ImageTarget name="UC" size="1.000000 1.016667" />
+    <ImageTarget name="WYS" size="1.000000 0.982609" />
+    <ImageTarget name="SH" size="1.000000 0.903704" />
+    <ImageTarget name="SC" size="1.000000 0.888889" />
+    <ImageTarget name="NA" size="1.000000 0.991228" />
+    <ImageTarget name="MC" size="1.000000 0.793651" />
+    <ImageTarget name="LWS" size="1.000000 1.192982" />
+    <ImageTarget name="CW" size="1.000000 1.209677" />
+  </Tracking>
+</QCARConfig>
